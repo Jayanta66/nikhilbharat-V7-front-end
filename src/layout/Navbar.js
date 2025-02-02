@@ -7,7 +7,7 @@ export default function Navbar() {
       <nav className="navbar navbar-expand-lg navbar bg">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            TASK MANAGEMENT APPLICATION
+          Nikhil Bharat Bangali (Udbastu) Samanway Samiti
           </Link>
           <button
             className="navbar-toggler"
