@@ -6,7 +6,7 @@ export default function Navbar() {
     <div>
       <nav className="navbar navbar-expand-lg navbar bg">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="">
           Nikhil Bharat Bangali (Udbastu) Samanway Samiti
           </Link>
           <button
