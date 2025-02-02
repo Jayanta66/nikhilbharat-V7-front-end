@@ -18,7 +18,7 @@ export default function ViewTask() {
   }, []);
 
   const loadUser = async () => {
-    const result = await axios.get(`https://nikhilbharat-v7-back-end-production.up.railway.app/api/tasks/${id}`);
+    const result = await axios.get(`https://nikhilbharat-v7-back-end-production.up.railway.app:8080/api/tasks/${id}`);
     setTask(result.data);
   };
 
