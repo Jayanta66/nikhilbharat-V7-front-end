@@ -12,12 +12,12 @@ export default function Home() {
   }, []);
 
   const loadTasks = async () => {
-    const result = await axios.get("https://nikhilbharat-v7-back-end-production.up.railway.app:8080/api/tasks");
+    const result = await axios.get("https://nikhilbharat-v7-back-end-production.up.railway.app/api/tasks");
     setTasks(result.data);
   };
 
   const deleteUser = async (id) => {
-    await axios.delete(`https://nikhilbharat-v7-back-end-production.up.railway.app:8080/api/tasks/${id}`);
+    await axios.delete(`https://nikhilbharat-v7-back-end-production.up.railway.app/api/tasks/${id}`);
     loadTasks();
   };
 
