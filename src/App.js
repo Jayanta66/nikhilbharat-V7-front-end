@@ -2,6 +2,7 @@ import "./App.css";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./layout/Navbar";
 import Home from "./pages/Home";
+import React, { Component }  from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AddTask from "./tasks/AddTask";
 import EditTask from "./tasks/EditTask";
