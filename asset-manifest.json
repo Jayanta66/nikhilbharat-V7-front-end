@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nikhilbharat-V7-front-end/static/css/main.c74dfb4d.css",
-    "main.js": "/nikhilbharat-V7-front-end/static/js/main.6f5251f9.js",
+    "main.js": "/nikhilbharat-V7-front-end/static/js/main.7fe35765.js",
     "static/js/453.9480f991.chunk.js": "/nikhilbharat-V7-front-end/static/js/453.9480f991.chunk.js",
     "index.html": "/nikhilbharat-V7-front-end/index.html",
     "main.c74dfb4d.css.map": "/nikhilbharat-V7-front-end/static/css/main.c74dfb4d.css.map",
-    "main.6f5251f9.js.map": "/nikhilbharat-V7-front-end/static/js/main.6f5251f9.js.map",
+    "main.7fe35765.js.map": "/nikhilbharat-V7-front-end/static/js/main.7fe35765.js.map",
     "453.9480f991.chunk.js.map": "/nikhilbharat-V7-front-end/static/js/453.9480f991.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c74dfb4d.css",
-    "static/js/main.6f5251f9.js"
+    "static/js/main.7fe35765.js"
   ]
 }
