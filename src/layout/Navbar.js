@@ -5,9 +5,11 @@ export default function Navbar() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar bg">
+    
         <div className="container-fluid">
           <Link className="navbar-brand" to="">
-          Nikhil Bharat Bangali (Udbastu) Samanway Samiti
+          Tiptops.xyz
+         
           </Link>
           <button
             className="navbar-toggler"
@@ -20,10 +22,8 @@ export default function Navbar() {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-
-
         </div>
-
+        
       </nav>
       <div>
 
