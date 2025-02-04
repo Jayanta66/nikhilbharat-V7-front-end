@@ -25,6 +25,13 @@ export default function Navbar() {
         </div>
 
       </nav>
+      <div>
+
+        <h1>Hi everyone W E L C O M E   to my website. </h1>
+        <h1>I am Jayanta Halder . If liked my website and if you want to build any website then i am here to turn your ideas into real . you may contact : 8910425824</h1>
+
+      </div>
+
       <Link className="btn btn-outline-primary" to="/addtask">
             Add Task
           </Link>
