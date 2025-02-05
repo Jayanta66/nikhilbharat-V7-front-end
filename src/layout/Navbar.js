@@ -8,7 +8,7 @@ export default function Navbar() {
     
         <div className="container-fluid">
           <Link className="navbar-brand" to="">
-          Tiptops.xyz
+          tiptops.xyz
          
           </Link>
           <button
