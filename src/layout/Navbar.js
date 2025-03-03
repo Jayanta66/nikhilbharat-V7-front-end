@@ -30,7 +30,7 @@ export default function Navbar() {
         <h1>Hi everyone W E L C O M E   to my website. </h1>
         <h1>I am Jayanta Halder . If liked my website and if you want to build any website then i am here to turn your ideas into real . you may contact : 8910425824</h1>
 
-        <h1 style={{color: "red"}}>To add anything please follow these setting on you browser(chrome,firefox,edge) > goto three dot > Settings > Privacy  and security > security > advanced > use secure DNS > turn on > select dns provider > cloudflare(1.1.1.1)</h1>
+        <h1 style={{color: "red"}}>To add anything please follow these setting on your browser(chrome,firefox,edge) > goto three dot > Settings > Privacy  and security > security > advanced > use secure DNS > turn on > select dns provider > cloudflare(1.1.1.1)</h1>
         <h1 style={{color: "#581845"}}>After complete the setting Add Task button would be workable. Thank you to visiting this site.</h1>
 
       </div>
