@@ -55,10 +55,10 @@
     "deploy": "gh-pages -d build",
 
 
-    "start": "react-scripts --openssl-legacy-provider start",
+    "start": "react-scripts  start",
 
 
-    "build": "react-scripts --openssl-legacy-provider build",
+    "build": "react-scripts build",
 
 
     "test": "react-scripts test",
